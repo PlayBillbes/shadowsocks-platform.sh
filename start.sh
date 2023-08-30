@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#leee
 [[ "$SS_PASSWORD" ]] || {
 	2>&1 echo "Empty shadowsocks password! Please set SS_PASSWORD environment variable."
 	exec sleep infinity
