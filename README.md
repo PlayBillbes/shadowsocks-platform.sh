@@ -1,6 +1,6 @@
 # shadowsocks-platform.sh
 
-Ready-to-use [platform.sh](https://platform.sh/) deployment of shadowsocks with v2ray-plugin.
+Ready-to-use [platform.sh](https://platform.sh/) deployment of shadowsocks with v2ray-plugin.dd
 
 ## How to use
 
