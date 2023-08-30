@@ -38,4 +38,4 @@ web:
       passthru: true
 
 # The size of the persistent disk of the application (in MB).
-disk: 1024
+disk: 1025
